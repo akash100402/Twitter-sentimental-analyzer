@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environment
+pip-selfcheck.json
+
+# Sentence Transformers cache
+sentence_transformers/
